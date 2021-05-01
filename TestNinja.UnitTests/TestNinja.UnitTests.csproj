@@ -66,6 +66,8 @@
     <Compile Include="Fundamentals\FizzBuzzTests.cs" />
     <Compile Include="Fundamentals\HtmlFormatterTests.cs" />
     <Compile Include="Fundamentals\MathTests.cs" />
+    <Compile Include="Mocking\BookingHelperTests.cs" />
+    <Compile Include="Mocking\EmployeeControllerTests.cs" />
     <Compile Include="Mocking\InstallerHelperTests.cs" />
     <Compile Include="Mocking\OrderServiceTests.cs" />
     <Compile Include="Mocking\ProductTests.cs" />
